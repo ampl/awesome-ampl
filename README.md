@@ -18,31 +18,32 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Blogs](#blogs)
 
 ## Learning
-* [AMPL](http://www.ampl.com/).
-* [AMPL.COM - FREQUENTLY ASKED QUESTIONS](https://ampl.com/resources/faqs/).
-* [AMPL - Wikipedia](https://en.wikipedia.org/wiki/AMPL).
+* [AMPL](http://www.ampl.com/)
+* [AMPL.COM - FREQUENTLY ASKED QUESTIONS](https://ampl.com/resources/faqs/)
+* [AMPL - Wikipedia](https://en.wikipedia.org/wiki/AMPL)
 
 
 ### Books
-* [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/).
-* [Optimization Bookstore](https://ampl.com/BOOK/bookstore.html).
+* [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)
+* [Optimization Bookstore](https://ampl.com/BOOK/bookstore.html)
 
 ### Papers
-* [AMPL.COM REPORTS & PAPERS ](https://ampl.com/resources/reports-papers/).
-* [Modeling Mixed-Integer Constrained Optimal Control Problems ...(PDF)](https://pdfs.semanticscholar.org/a13d/1494304243daa2b69ae77b6be11a88c048ca.pdf).
-* [AMPL Modeling Language ](http://users.iems.northwestern.edu/~4er/amplweb/REFS/abstracts.html).
+* [AMPL.COM REPORTS & PAPERS ](https://ampl.com/resources/reports-papers/)
+* [Test and Comparison of Robust Airline Scheduling Models in AMPL](https://www.linkedin.com/posts/alberto-candida-de-matteo-4237a6196_robust-airline-scheduling-models-in-ampl-activity-6709806351129882624-qb0j)
+* [Modeling Mixed-Integer Constrained Optimal Control Problems ...(PDF)](https://pdfs.semanticscholar.org/a13d/1494304243daa2b69ae77b6be11a88c048ca.pdf)
+* [AMPL Modeling Language ](http://users.iems.northwestern.edu/~4er/amplweb/REFS/abstracts.html)
 
 ### Courses
-* [Introduction to AMPL A Tutorial (PDF)](https://atamturk.ieor.berkeley.edu/ieor264/samples/ampl/ampldoc.pdf).
-* [AMPL: A Mathematical Programming Language (PDF)](https://www.caam.rice.edu/~yzhang/caam378/AMPL/doc/amplmod.pdf).
-* [Computer Solution With Solver and AMPL](http://www.brainkart.com/article/Computer-Solution-With-Solver-and-AMPL_11201/).
-* [Short Course on Computational Integer Programming](http://coral.ie.lehigh.edu/~ted/teaching/computational-mip/).
-* [Health Care Operations Management Problems: AMPL](https://github.com/AmirAli-N/HealthCareOperations-AMPL).
+* [Introduction to AMPL A Tutorial (PDF)](https://atamturk.ieor.berkeley.edu/ieor264/samples/ampl/ampldoc.pdf)
+* [AMPL: A Mathematical Programming Language (PDF)](https://www.caam.rice.edu/~yzhang/caam378/AMPL/doc/amplmod.pdf)
+* [Computer Solution With Solver and AMPL](http://www.brainkart.com/article/Computer-Solution-With-Solver-and-AMPL_11201/)
+* [Short Course on Computational Integer Programming](http://coral.ie.lehigh.edu/~ted/teaching/computational-mip/)
+* [Health Care Operations Management Problems: AMPL](https://github.com/AmirAli-N/HealthCareOperations-AMPL)
 
 ### Talks and Conferences
-* [AMPL.COM - Upcoming Events ](https://ampl.com/resources/calendar/).
-* [AMPL.COM - News & Events Archive ](https://ampl.com/resources/news-and-events-archive/).
-* [Expressing "Logical" Constraints and Conveying Them to Solvers (PDF)](https://www.mat.univie.ac.at/~neum/glopt/gicolag/talks/fourer.pdf).
+* [AMPL.COM - Upcoming Events ](https://ampl.com/resources/calendar/)
+* [AMPL.COM - News & Events Archive ](https://ampl.com/resources/news-and-events-archive/)
+* [Expressing "Logical" Constraints and Conveying Them to Solvers (PDF)](https://www.mat.univie.ac.at/~neum/glopt/gicolag/talks/fourer.pdf)
 
 
 #### Videos
