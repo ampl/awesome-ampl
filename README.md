@@ -1,6 +1,6 @@
 # Awesome AMPL
 
-A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Optimization using AMPL. This list has a bias towards education.
+A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Optimization using AMPL.
 
 ## Contents
 
@@ -19,9 +19,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ## Learning
 * [AMPL](http://www.ampl.com/)
-* [AMPL.COM - FREQUENTLY ASKED QUESTIONS](https://ampl.com/resources/faqs/)
-* [AMPL - Wikipedia](https://en.wikipedia.org/wiki/AMPL)
-
+* [AMPL Frequently Asked Questions](https://ampl.com/resources/faqs/)
+* [AMPL on Wikipedia](https://en.wikipedia.org/wiki/AMPL)
 
 ### Books
 * [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)
@@ -44,7 +43,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [AMPL.COM - Upcoming Events ](https://ampl.com/resources/calendar/)
 * [AMPL.COM - News & Events Archive ](https://ampl.com/resources/news-and-events-archive/)
 * [Expressing "Logical" Constraints and Conveying Them to Solvers (PDF)](https://www.mat.univie.ac.at/~neum/glopt/gicolag/talks/fourer.pdf)
-
 
 #### Videos
 
