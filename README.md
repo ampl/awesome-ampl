@@ -23,7 +23,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [AMPL on Wikipedia](https://en.wikipedia.org/wiki/AMPL)
 
 ### Books
-* [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)
+* Fourer, Gay, Kernighan, [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)
+* Schoen, [Optimization Models](https://webgol.dinfo.unifi.it/OptimizationModels)
 * [Optimization Bookstore](https://ampl.com/BOOK/bookstore.html)
 
 ### Papers
