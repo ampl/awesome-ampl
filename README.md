@@ -34,6 +34,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [AMPL Modeling Language ](http://users.iems.northwestern.edu/~4er/amplweb/REFS/abstracts.html)
 
 ### Courses
+* [The Lightning AMPL Tutorial: A Guide for Nonlinear Optimization Users](https://www.gerad.ca/en/papers/G-2009-66.pdf)
 * [Introduction to AMPL A Tutorial (PDF)](https://atamturk.ieor.berkeley.edu/ieor264/samples/ampl/ampldoc.pdf)
 * [AMPL: A Mathematical Programming Language (PDF)](https://www.caam.rice.edu/~yzhang/caam378/AMPL/doc/amplmod.pdf)
 * [Computer Solution With Solver and AMPL](http://www.brainkart.com/article/Computer-Solution-With-Solver-and-AMPL_11201/)
@@ -111,7 +112,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [Mathematical Optimization Society](http://www.mathopt.org/).
 
 ## Tools and Frameworks
-* [Logic and Constraint Programming Extensions ](https://ampl.com/resources/logic-and-constraint-programming-extensions/).
+* [AmplNLReader.jl: A Julia interface to AMPL](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl)
+* [Logic and Constraint Programming Extensions](https://ampl.com/resources/logic-and-constraint-programming-extensions/).
 * [AMPL Table Handlers for Relational Database and Spreadsheet Software ](https://ampl.com/resources/database-and-spreadsheet-table-handlers/).
 * [Extended Function Library](https://ampl.com/resources/extended-function-library/).
 * [AMPL API](https://ampl.com/products/api/).
