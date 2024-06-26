@@ -13,6 +13,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Articles](#articles)
     + [Tutorials](#tutorials)
     + [Community Discussions](#community-discussions)
+    + [Repositories](#repositories)
   * [Tools and Frameworks](#tools-and-frameworks)
     + [Editors](#editors)
   * [Blogs](#blogs)
@@ -25,6 +26,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### Books
 * Fourer, Gay, Kernighan, [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/resources/the-ampl-book/)
 * Schoen, [Optimization Models](https://webgol.dinfo.unifi.it/OptimizationModels)
+* Daniel Morillo, Gustavo Gatica [Aprende Modelando: Programación Lineal Entera-Mixta: Guía de aprendizaje, desde el problema a la solución con AMPL](https://www.amazon.es/Aprende-Modelando-Programación-Entera-Mixta-aprendizaje-ebook/dp/B0C54LS1YZ)
+* [MO-BOOK: Hands-On Mathematical Optimization with AMPL in Python](https://ampl.com/mo-book/)
 * [Optimization Bookstore](https://ampl.com/BOOK/bookstore.html)
 
 ### Papers
@@ -110,6 +113,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 * [Optimization Online](http://www.optimization-online.org/).
 * [Github search AMPL](https://github.com/search?l=AMPL&q=ampl&type=Repositories).
 * [Mathematical Optimization Society](http://www.mathopt.org/).
+
+### Repositories
+* [AMPL Colaboratory](https://colab.ampl.com).
+* [European Space Agency: Space-AMPL](https://github.com/esa/SpaceAMPL).
 
 ## Tools and Frameworks
 * [AmplNLReader.jl: A Julia interface to AMPL](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl)
