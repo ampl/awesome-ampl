@@ -116,6 +116,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Repositories
 * [AMPL Colaboratory](https://colab.ampl.com).
+* [Amplpower](https://github.com/salvapineda/amplpower).
 * [European Space Agency: Space-AMPL](https://github.com/esa/SpaceAMPL).
 
 ## Tools and Frameworks
